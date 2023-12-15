@@ -23,3 +23,7 @@ prompt("Qual è il tuo cognome", "Ercoli");
 const lastName = "Ercoli";
 
 console.log(lastName);
+
+// punto 6: chiedere il colore preferito all'utente
+
+prompt("Qual è il tuo colore preferito?", "rosso");
