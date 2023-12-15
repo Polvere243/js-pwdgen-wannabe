@@ -18,3 +18,8 @@ console.log(firstName);
 
 prompt("Qual è il tuo cognome", "Ercoli");
 
+// punto 5: ripetere il punto 3
+
+const lastName = "Ercoli";
+
+console.log(lastName);
