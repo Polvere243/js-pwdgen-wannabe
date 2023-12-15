@@ -31,7 +31,7 @@ Buon lavoro e buon weekend! :laptop_parrot:
 6 - chiedo il colore preferito all'utente;
 7 - ripeto il punto 3;
 8 - creo una costante col numero dato in traccia;
-9 - Creo un messaggio per introdurre la password;
-10 - scelgo un modo per sommare le informazioni date dall'utente e il numero dato in traccia;
+9 - scelgo un modo per sommare le informazioni date dall'utente e il numero dato in traccia;
+10 - Creo un messaggio per introdurre la password;
 11 - stampo la password dapprima in console;
 12 - cerco di stamparla in pagina; 
