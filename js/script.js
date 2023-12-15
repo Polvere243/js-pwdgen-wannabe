@@ -6,10 +6,15 @@ document.getElementById(password);
 
 prompt("Come ti chiami", "Daniele");
 
-console.log("prompt");
 
-// punto 3: dichiaro una constante coll'informazione
+
+// punto 3: dichiarare una constante coll'informazione
 
 const firstName = "Daniele";
 
 console.log(firstName);
+
+// punto 4: chiedere il cognome all'utente
+
+prompt("Qual è il tuo cognome", "Ercoli");
+
