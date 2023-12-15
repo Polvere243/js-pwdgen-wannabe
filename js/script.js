@@ -34,11 +34,17 @@ const favouriteColour = "Rosso";
 
 console.log(favouriteColour);
 
-// punto 8: creare un messaggio per introdurre la password
+// punto 8: creare una costante col numero dato in traccia
+
+const givenNumber = 23;
+
+console.log(givenNumber);
+
+// punto 9: creare un messaggio per introdurre la password
 
 let passwordMessage = "Ecco la tua nuova password";
 
 console.log(passwordMessage);
 
-//punto 9: scelgo un modo per sommare le informazioni date dall'utente
+//punto 10: scelgo un modo per sommare le informazioni date dall'utente
 
