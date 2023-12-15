@@ -46,5 +46,10 @@ let passwordMessage = "Ecco la tua nuova password";
 
 console.log(passwordMessage);
 
-//punto 10: scelgo un modo per sommare le informazioni date dall'utente
+/*punto 10: scelgo un modo per sommare le informazioni date dall'utente 
 
+punto 11: stampare la password in console*/
+
+const generatedPassword = firstName + lastName + favouriteColour + givenNumber;
+
+console.log(generatedPassword);
