@@ -39,3 +39,4 @@ console.log(favouriteColour);
 let passwordMessage = "Ecco la tua nuova password ";
 
 console.log(passwordMessage);
+
