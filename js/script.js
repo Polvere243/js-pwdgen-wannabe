@@ -1,1 +1,2 @@
-console.log("JS OK")
+document.getElementById(password);
+console.log(password)
