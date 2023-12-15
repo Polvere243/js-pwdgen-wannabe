@@ -1,6 +1,7 @@
 // punto 1: recupero dell'elemento
 
-document.getElementById(password);
+const paragraph = document.getElementById("password");
+console.log(paragraph);
 
 // punto 2: chiedere il nome all'utente
 
@@ -40,16 +41,27 @@ const givenNumber = 23;
 
 console.log(givenNumber);
 
-// punto 9: creare un messaggio per introdurre la password
 
-let passwordMessage = "Ecco la tua nuova password";
 
-console.log(passwordMessage);
-
-/*punto 10: scelgo un modo per sommare le informazioni date dall'utente 
+/*punto 9: scelgo un modo per sommare le informazioni date dall'utente 
 
 punto 11: stampare la password in console*/
 
 const generatedPassword = firstName + lastName + favouriteColour + givenNumber;
 
 console.log(generatedPassword);
+
+// punto 10: creare un messaggio per introdurre la password
+
+let passwordMessage = "Ecco la tua nuova password:";
+
+console.log(passwordMessage);
+
+const outcome = `${passwordMessage} ${generatedPassword}`;
+
+console.log(outcome);
+
+// punto 12: cercare di stamparlo in pagina
+
+paragraph.innerText= outcome;
+
