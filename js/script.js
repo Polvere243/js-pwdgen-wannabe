@@ -7,3 +7,9 @@ document.getElementById(password);
 prompt("Come ti chiami", "Daniele");
 
 console.log("prompt");
+
+// punto 3: dichiaro una constante coll'informazione
+
+const firstName = "Daniele";
+
+console.log(firstName);
